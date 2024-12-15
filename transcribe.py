@@ -7,7 +7,7 @@ def get_prompt(prompt_path: str) -> str:
     message = None
     with open(prompt_path, "r") as file:
         message = file.read()
-
+        
     return message    
 
 SYSTEM_MESSAGE = get_prompt(SYSTEM_MESSAGE)
