@@ -1,4 +1,4 @@
-The text in the video represents pages from the Okun Bible, ensure to format the text in this form:
+The text in the video represents pages from the {language} {book}, ensure to format the text in this form:
 
 Name of Book 1
 =====================

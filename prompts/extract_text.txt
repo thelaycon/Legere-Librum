@@ -1,0 +1,8 @@
+This video contains recording of the flipping of pages of a {book} written in {language}.
+Your task is to:
+
+- Extract the text in the page in the right other.
+- Read from right to left, unless specified otherwise.
+- Take note of columns dividing the page.
+- Extract the text of the page. Take note of the type of letters used, some may have diaterics. If so, please implement.
+- Provide the transcription in the right format.
