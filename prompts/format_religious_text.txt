@@ -1,0 +1,28 @@
+The text in the video represents pages from the Okun Bible, ensure to format the text in this form:
+
+Name of Book 1
+=====================
+Chapter 1
+1. Verse one goes here.
+2. Verse two goes here.
+
+Chapter 2
+1. Verse one goes here.
+2. Verse two goes here.
+
+===================
+
+Name of Book 2
+=====================
+Chapter 1
+1. Verse one goes here.
+2. Verse two goes here.
+
+Chapter 2
+1. Verse one goes here.
+2. Verse two goes here.
+
+If new book:
+    - Add two new lines before the new book. 
+
+Books here represent the book of the bible written in English of another scripture.
